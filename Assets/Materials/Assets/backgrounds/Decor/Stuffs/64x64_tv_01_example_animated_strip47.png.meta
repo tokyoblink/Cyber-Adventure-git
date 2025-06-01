@@ -1,0 +1,1318 @@
+fileFormatVersion: 2
+guid: ef8f4e09a8a033146b0de1e521aad070
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2194910799881700876
+    second: 64x64_tv_01_example_animated_strip47_0
+  - first:
+      213: -1856167601237385407
+    second: 64x64_tv_01_example_animated_strip47_1
+  - first:
+      213: 7395686167368671142
+    second: 64x64_tv_01_example_animated_strip47_2
+  - first:
+      213: -1143225486728194800
+    second: 64x64_tv_01_example_animated_strip47_3
+  - first:
+      213: 4772402023985539592
+    second: 64x64_tv_01_example_animated_strip47_4
+  - first:
+      213: 7371472872348392641
+    second: 64x64_tv_01_example_animated_strip47_5
+  - first:
+      213: -6880415070297339049
+    second: 64x64_tv_01_example_animated_strip47_6
+  - first:
+      213: 2432699346826033322
+    second: 64x64_tv_01_example_animated_strip47_7
+  - first:
+      213: 1038201341610344149
+    second: 64x64_tv_01_example_animated_strip47_8
+  - first:
+      213: 9206597000655403964
+    second: 64x64_tv_01_example_animated_strip47_9
+  - first:
+      213: -2701941788302124902
+    second: 64x64_tv_01_example_animated_strip47_10
+  - first:
+      213: 8610270945693726051
+    second: 64x64_tv_01_example_animated_strip47_11
+  - first:
+      213: 1755926275173177895
+    second: 64x64_tv_01_example_animated_strip47_12
+  - first:
+      213: -8152282439554968130
+    second: 64x64_tv_01_example_animated_strip47_13
+  - first:
+      213: -5763759648367521709
+    second: 64x64_tv_01_example_animated_strip47_14
+  - first:
+      213: 3214664317842146402
+    second: 64x64_tv_01_example_animated_strip47_15
+  - first:
+      213: -4633697920265812376
+    second: 64x64_tv_01_example_animated_strip47_16
+  - first:
+      213: -6413113398975328609
+    second: 64x64_tv_01_example_animated_strip47_17
+  - first:
+      213: 148168659838633319
+    second: 64x64_tv_01_example_animated_strip47_18
+  - first:
+      213: 7350473193760174269
+    second: 64x64_tv_01_example_animated_strip47_19
+  - first:
+      213: -6678745635124139048
+    second: 64x64_tv_01_example_animated_strip47_20
+  - first:
+      213: -29106373494637049
+    second: 64x64_tv_01_example_animated_strip47_21
+  - first:
+      213: -3335371240855551329
+    second: 64x64_tv_01_example_animated_strip47_22
+  - first:
+      213: -6370970438258115650
+    second: 64x64_tv_01_example_animated_strip47_23
+  - first:
+      213: 5019730629391111071
+    second: 64x64_tv_01_example_animated_strip47_24
+  - first:
+      213: 7414905102755488541
+    second: 64x64_tv_01_example_animated_strip47_25
+  - first:
+      213: -3648975774252047248
+    second: 64x64_tv_01_example_animated_strip47_26
+  - first:
+      213: 6978655605560682454
+    second: 64x64_tv_01_example_animated_strip47_27
+  - first:
+      213: -6517035848041856162
+    second: 64x64_tv_01_example_animated_strip47_28
+  - first:
+      213: -6846358939829185288
+    second: 64x64_tv_01_example_animated_strip47_29
+  - first:
+      213: 6174964054325084674
+    second: 64x64_tv_01_example_animated_strip47_30
+  - first:
+      213: 6658961863331705596
+    second: 64x64_tv_01_example_animated_strip47_31
+  - first:
+      213: 4933613212381571888
+    second: 64x64_tv_01_example_animated_strip47_32
+  - first:
+      213: -5770487090843589974
+    second: 64x64_tv_01_example_animated_strip47_33
+  - first:
+      213: -3520214209521381591
+    second: 64x64_tv_01_example_animated_strip47_34
+  - first:
+      213: -3987328075730156679
+    second: 64x64_tv_01_example_animated_strip47_35
+  - first:
+      213: 6970450314878914912
+    second: 64x64_tv_01_example_animated_strip47_36
+  - first:
+      213: 6472235097561610753
+    second: 64x64_tv_01_example_animated_strip47_37
+  - first:
+      213: 1154822543683249296
+    second: 64x64_tv_01_example_animated_strip47_38
+  - first:
+      213: 6158111248828115455
+    second: 64x64_tv_01_example_animated_strip47_39
+  - first:
+      213: -422611000978457183
+    second: 64x64_tv_01_example_animated_strip47_40
+  - first:
+      213: -7714366190372568004
+    second: 64x64_tv_01_example_animated_strip47_41
+  - first:
+      213: -6543319902174384872
+    second: 64x64_tv_01_example_animated_strip47_42
+  - first:
+      213: -1254192660183944823
+    second: 64x64_tv_01_example_animated_strip47_43
+  - first:
+      213: 6641707108976384651
+    second: 64x64_tv_01_example_animated_strip47_44
+  - first:
+      213: -400189221130324865
+    second: 64x64_tv_01_example_animated_strip47_45
+  - first:
+      213: 5610773140078462780
+    second: 64x64_tv_01_example_animated_strip47_46
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 64x64_tv_01_example_animated_strip47_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f9f163b14c1a81e0800000000000000
+      internalID: -2194910799881700876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 64x64_tv_01_example_animated_strip47_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14f18aca6619d36e0800000000000000
+      internalID: -1856167601237385407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 64x64_tv_01_example_animated_strip47_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6af974c9261c2a660800000000000000
+      internalID: 7395686167368671142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 64x64_tv_01_example_animated_strip47_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01594651a727220f0800000000000000
+      internalID: -1143225486728194800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 64x64_tv_01_example_animated_strip47_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a63050b5afa3240800000000000000
+      internalID: 4772402023985539592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 64x64_tv_01_example_animated_strip47_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cc11cb858bbc4660800000000000000
+      internalID: 7371472872348392641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 64x64_tv_01_example_animated_strip47_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75bcea392fad380a0800000000000000
+      internalID: -6880415070297339049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 64x64_tv_01_example_animated_strip47_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa8f3ecba2fa2c120800000000000000
+      internalID: 2432699346826033322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 64x64_tv_01_example_animated_strip47_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5deb40c9e9e686e00800000000000000
+      internalID: 1038201341610344149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 64x64_tv_01_example_animated_strip47_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbbfd36813764cf70800000000000000
+      internalID: 9206597000655403964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 64x64_tv_01_example_animated_strip47_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a98d7705246c08ad0800000000000000
+      internalID: -2701941788302124902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 64x64_tv_01_example_animated_strip47_11
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 0
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 365f0f15ec3dd7770800000000000000
+      internalID: 8610270945693726051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 64x64_tv_01_example_animated_strip47_12
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ad87bd4ad4e5810800000000000000
+      internalID: 1755926275173177895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 64x64_tv_01_example_animated_strip47_13
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 0
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb5dba950564dde80800000000000000
+      internalID: -8152282439554968130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 64x64_tv_01_example_animated_strip47_14
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 350d25433230300b0800000000000000
+      internalID: -5763759648367521709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 64x64_tv_01_example_animated_strip47_15
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 264ca114a28cc9c20800000000000000
+      internalID: 3214664317842146402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 64x64_tv_01_example_animated_strip47_16
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 866071aba4cc1bfb0800000000000000
+      internalID: -4633697920265812376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 64x64_tv_01_example_animated_strip47_17
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 0
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9e07cd775b0007a0800000000000000
+      internalID: -6413113398975328609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 64x64_tv_01_example_animated_strip47_18
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76507807c966e0200800000000000000
+      internalID: 148168659838633319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 64x64_tv_01_example_animated_strip47_19
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 0
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db03b1ddc60220660800000000000000
+      internalID: 7350473193760174269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 64x64_tv_01_example_animated_strip47_20
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8db2c39fa345053a0800000000000000
+      internalID: -6678745635124139048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 64x64_tv_01_example_animated_strip47_21
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 0
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ef62358e7989ff0800000000000000
+      internalID: -29106373494637049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 64x64_tv_01_example_animated_strip47_22
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 0
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9240ca278166b1d0800000000000000
+      internalID: -3335371240855551329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 64x64_tv_01_example_animated_strip47_23
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 0
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb3c192424c597a0800000000000000
+      internalID: -6370970438258115650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 64x64_tv_01_example_animated_strip47_24
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f935109696aa9a540800000000000000
+      internalID: 5019730629391111071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 64x64_tv_01_example_animated_strip47_25
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 0
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d13e8f4b7e807e660800000000000000
+      internalID: 7414905102755488541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 64x64_tv_01_example_animated_strip47_26
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 0
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07463bdcddb3c5dc0800000000000000
+      internalID: -3648975774252047248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 64x64_tv_01_example_animated_strip47_27
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 0
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7ab3b7c4a29d060800000000000000
+      internalID: 6978655605560682454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 64x64_tv_01_example_animated_strip47_28
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e538af8cc66de85a0800000000000000
+      internalID: -6517035848041856162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 64x64_tv_01_example_animated_strip47_29
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 0
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f459aa51d8dcf0a0800000000000000
+      internalID: -6846358939829185288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 64x64_tv_01_example_animated_strip47_30
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2024ade4711e1b550800000000000000
+      internalID: 6174964054325084674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 64x64_tv_01_example_animated_strip47_31
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 0
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf272c4b882696c50800000000000000
+      internalID: 6658961863331705596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 64x64_tv_01_example_animated_strip47_32
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b6d27c317b77440800000000000000
+      internalID: 4933613212381571888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 64x64_tv_01_example_animated_strip47_33
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 0
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa26a41709c1befa0800000000000000
+      internalID: -5770487090843589974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 64x64_tv_01_example_animated_strip47_34
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 0
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92f023cc3dfa52fc0800000000000000
+      internalID: -3520214209521381591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 64x64_tv_01_example_animated_strip47_35
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 0
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 973892bad3a2aa8c0800000000000000
+      internalID: -3987328075730156679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 64x64_tv_01_example_animated_strip47_36
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 0
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0611ede51a30cb060800000000000000
+      internalID: 6970450314878914912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 64x64_tv_01_example_animated_strip47_37
+      rect:
+        serializedVersion: 2
+        x: 2368
+        y: 0
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ab9f4a78ff1d950800000000000000
+      internalID: 6472235097561610753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 64x64_tv_01_example_animated_strip47_38
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 0
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0946ad62cf0c60010800000000000000
+      internalID: 1154822543683249296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 64x64_tv_01_example_animated_strip47_39
+      rect:
+        serializedVersion: 2
+        x: 2496
+        y: 0
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff9acb1cd81067550800000000000000
+      internalID: 6158111248828115455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 64x64_tv_01_example_animated_strip47_40
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 0
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1adb180a885922af0800000000000000
+      internalID: -422611000978457183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 64x64_tv_01_example_animated_strip47_41
+      rect:
+        serializedVersion: 2
+        x: 2624
+        y: 0
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c344f8382d011f490800000000000000
+      internalID: -7714366190372568004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 64x64_tv_01_example_animated_strip47_42
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 0
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81de62b87357135a0800000000000000
+      internalID: -6543319902174384872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 64x64_tv_01_example_animated_strip47_43
+      rect:
+        serializedVersion: 2
+        x: 2752
+        y: 0
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98175d9ab66389ee0800000000000000
+      internalID: -1254192660183944823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 64x64_tv_01_example_animated_strip47_44
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 0
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a59b42d651c2c50800000000000000
+      internalID: 6641707108976384651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 64x64_tv_01_example_animated_strip47_45
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 0
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f74369f060e327af0800000000000000
+      internalID: -400189221130324865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 64x64_tv_01_example_animated_strip47_46
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 0
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c370ea991787ddd40800000000000000
+      internalID: 5610773140078462780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

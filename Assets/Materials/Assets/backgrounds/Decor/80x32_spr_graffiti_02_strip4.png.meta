@@ -1,0 +1,743 @@
+fileFormatVersion: 2
+guid: db6350f7050149d429e1980666729895
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7714164931740467513
+    second: 80x32_spr_graffiti_02_strip4_0
+  - first:
+      213: 1227018717076659620
+    second: 80x32_spr_graffiti_02_strip4_1
+  - first:
+      213: -5807493384461600253
+    second: 80x32_spr_graffiti_02_strip4_2
+  - first:
+      213: 759742735774751192
+    second: 80x32_spr_graffiti_02_strip4_3
+  - first:
+      213: -5255280846157631984
+    second: 80x32_spr_graffiti_02_strip4_4
+  - first:
+      213: -7379198657353633674
+    second: 80x32_spr_graffiti_02_strip4_5
+  - first:
+      213: 3137221332794153435
+    second: 80x32_spr_graffiti_02_strip4_6
+  - first:
+      213: 7229819975386207347
+    second: 80x32_spr_graffiti_02_strip4_7
+  - first:
+      213: 7688765987067016892
+    second: 80x32_spr_graffiti_02_strip4_8
+  - first:
+      213: 7818297947398017335
+    second: 80x32_spr_graffiti_02_strip4_9
+  - first:
+      213: -3122536406227125996
+    second: 80x32_spr_graffiti_02_strip4_10
+  - first:
+      213: 5124743643701999404
+    second: 80x32_spr_graffiti_02_strip4_11
+  - first:
+      213: -3849112129249026307
+    second: 80x32_spr_graffiti_02_strip4_12
+  - first:
+      213: 397026973124363917
+    second: 80x32_spr_graffiti_02_strip4_13
+  - first:
+      213: -5374909489585382814
+    second: 80x32_spr_graffiti_02_strip4_14
+  - first:
+      213: 4912452191396764334
+    second: 80x32_spr_graffiti_02_strip4_15
+  - first:
+      213: -2664796489668585015
+    second: 80x32_spr_graffiti_02_strip4_16
+  - first:
+      213: 6482213645947539944
+    second: 80x32_spr_graffiti_02_strip4_17
+  - first:
+      213: -4239522611780085372
+    second: 80x32_spr_graffiti_02_strip4_18
+  - first:
+      213: 18696037231594194
+    second: 80x32_spr_graffiti_02_strip4_19
+  - first:
+      213: 1545545023646804627
+    second: 80x32_spr_graffiti_02_strip4_20
+  - first:
+      213: 5455038857021092686
+    second: 80x32_spr_graffiti_02_strip4_21
+  - first:
+      213: -2009825609109428726
+    second: 80x32_spr_graffiti_02_strip4_22
+  - first:
+      213: -6666177658196357106
+    second: 80x32_spr_graffiti_02_strip4_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 80x32_spr_graffiti_02_strip4_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 7
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9318a2f42283e0b60800000000000000
+      internalID: 7714164931740467513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 80x32_spr_graffiti_02_strip4_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 6
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad1c1ca50f370110800000000000000
+      internalID: 1227018717076659620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 80x32_spr_graffiti_02_strip4_2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 5
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a3cb74983a76fa0800000000000000
+      internalID: -5807493384461600253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 80x32_spr_graffiti_02_strip4_3
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d9998e2ef52b8a00800000000000000
+      internalID: 759742735774751192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 80x32_spr_graffiti_02_strip4_4
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 14
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e2cd10aed7117b0800000000000000
+      internalID: -5255280846157631984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 80x32_spr_graffiti_02_strip4_5
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 7
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 670b565fae1d79990800000000000000
+      internalID: -7379198657353633674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 80x32_spr_graffiti_02_strip4_6
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 7
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd919f23e26a98b20800000000000000
+      internalID: 3137221332794153435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 80x32_spr_graffiti_02_strip4_7
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 6
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3741bee56fa755460800000000000000
+      internalID: 7229819975386207347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 80x32_spr_graffiti_02_strip4_8
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 5
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb63c3cadebf3ba60800000000000000
+      internalID: 7688765987067016892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 80x32_spr_graffiti_02_strip4_9
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73113de5f8c208c60800000000000000
+      internalID: 7818297947398017335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 80x32_spr_graffiti_02_strip4_10
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 14
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4197b94bea58aa4d0800000000000000
+      internalID: -3122536406227125996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 80x32_spr_graffiti_02_strip4_11
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 7
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c277ccf113fbe1740800000000000000
+      internalID: 5124743643701999404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 80x32_spr_graffiti_02_strip4_12
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 7
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfed67379e4359ac0800000000000000
+      internalID: -3849112129249026307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 80x32_spr_graffiti_02_strip4_13
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 6
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d868353bde5828500800000000000000
+      internalID: 397026973124363917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 80x32_spr_graffiti_02_strip4_14
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 5
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26a1365fb4c7865b0800000000000000
+      internalID: -5374909489585382814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 80x32_spr_graffiti_02_strip4_15
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa1b44ad398c2440800000000000000
+      internalID: 4912452191396764334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 80x32_spr_graffiti_02_strip4_16
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 14
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c9989a16bdb40bd0800000000000000
+      internalID: -2664796489668585015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 80x32_spr_graffiti_02_strip4_17
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 7
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e194ec77f275f950800000000000000
+      internalID: 6482213645947539944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 80x32_spr_graffiti_02_strip4_18
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 7
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4899c9385a03a25c0800000000000000
+      internalID: -4239522611780085372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 80x32_spr_graffiti_02_strip4_19
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 6
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da85e162fb624000800000000000000
+      internalID: 18696037231594194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 80x32_spr_graffiti_02_strip4_20
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 5
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a27d6a201e27510800000000000000
+      internalID: 1545545023646804627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 80x32_spr_graffiti_02_strip4_21
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e43f1bc30f034bb40800000000000000
+      internalID: 5455038857021092686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 80x32_spr_graffiti_02_strip4_22
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 14
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a06ac8cc14aab14e0800000000000000
+      internalID: -2009825609109428726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 80x32_spr_graffiti_02_strip4_23
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 7
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e009f812dbafc73a0800000000000000
+      internalID: -6666177658196357106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

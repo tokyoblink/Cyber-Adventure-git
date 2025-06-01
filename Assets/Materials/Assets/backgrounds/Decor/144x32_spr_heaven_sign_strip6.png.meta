@@ -1,0 +1,643 @@
+fileFormatVersion: 2
+guid: d58ce6d38883914418d22f8b9855e0ee
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4710609195009520626
+    second: 144x32_spr_heaven_sign_strip6_0
+  - first:
+      213: 838407648684938534
+    second: 144x32_spr_heaven_sign_strip6_1
+  - first:
+      213: -2415932566502957354
+    second: 144x32_spr_heaven_sign_strip6_2
+  - first:
+      213: -3551388257187968337
+    second: 144x32_spr_heaven_sign_strip6_3
+  - first:
+      213: 2929286073162117433
+    second: 144x32_spr_heaven_sign_strip6_4
+  - first:
+      213: -7526955286512431156
+    second: 144x32_spr_heaven_sign_strip6_5
+  - first:
+      213: 7592448195016966687
+    second: 144x32_spr_heaven_sign_strip6_6
+  - first:
+      213: -2659037184369921791
+    second: 144x32_spr_heaven_sign_strip6_7
+  - first:
+      213: -2656869394064140346
+    second: 144x32_spr_heaven_sign_strip6_8
+  - first:
+      213: 4510790723641741479
+    second: 144x32_spr_heaven_sign_strip6_9
+  - first:
+      213: -3487205496593873762
+    second: 144x32_spr_heaven_sign_strip6_10
+  - first:
+      213: -3009458473654189968
+    second: 144x32_spr_heaven_sign_strip6_11
+  - first:
+      213: 1753465594603553496
+    second: 144x32_spr_heaven_sign_strip6_12
+  - first:
+      213: 7651314428102182769
+    second: 144x32_spr_heaven_sign_strip6_13
+  - first:
+      213: 1993764853444773728
+    second: 144x32_spr_heaven_sign_strip6_14
+  - first:
+      213: -1067733938060630442
+    second: 144x32_spr_heaven_sign_strip6_15
+  - first:
+      213: 8513240339135851374
+    second: 144x32_spr_heaven_sign_strip6_16
+  - first:
+      213: 7091940199570819476
+    second: 144x32_spr_heaven_sign_strip6_17
+  - first:
+      213: 4888792171946412203
+    second: 144x32_spr_heaven_sign_strip6_18
+  - first:
+      213: -1432168435912251190
+    second: 144x32_spr_heaven_sign_strip6_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 144x32_spr_heaven_sign_strip6_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 0
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f33b30ea127f5140800000000000000
+      internalID: 4710609195009520626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 144x32_spr_heaven_sign_strip6_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 0
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62516dc705f92ab00800000000000000
+      internalID: 838407648684938534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 144x32_spr_heaven_sign_strip6_2
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6de1b448122e87ed0800000000000000
+      internalID: -2415932566502957354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 144x32_spr_heaven_sign_strip6_3
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 0
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa41d6323fe6bec0800000000000000
+      internalID: -3551388257187968337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 144x32_spr_heaven_sign_strip6_4
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 0
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 931b35cd92ae6a820800000000000000
+      internalID: 2929286073162117433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 144x32_spr_heaven_sign_strip6_5
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf8d23eb02ea8790800000000000000
+      internalID: -7526955286512431156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 144x32_spr_heaven_sign_strip6_6
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f12ca87286bcd5960800000000000000
+      internalID: 7592448195016966687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 144x32_spr_heaven_sign_strip6_7
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 0
+        width: 31
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 101731dd4c3391bd0800000000000000
+      internalID: -2659037184369921791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 144x32_spr_heaven_sign_strip6_8
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 0
+        width: 63
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c71330ec57e02bd0800000000000000
+      internalID: -2656869394064140346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 144x32_spr_heaven_sign_strip6_9
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 0
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a01bc2934c899e30800000000000000
+      internalID: 4510790723641741479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 144x32_spr_heaven_sign_strip6_10
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 0
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e948bbca315fa9fc0800000000000000
+      internalID: -3487205496593873762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 144x32_spr_heaven_sign_strip6_11
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0708d8786714c36d0800000000000000
+      internalID: -3009458473654189968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 144x32_spr_heaven_sign_strip6_12
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d2c6340baf855810800000000000000
+      internalID: 1753465594603553496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 144x32_spr_heaven_sign_strip6_13
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 0
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1770ad71fedee2a60800000000000000
+      internalID: 7651314428102182769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 144x32_spr_heaven_sign_strip6_14
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 0
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0670c3f12964bab10800000000000000
+      internalID: 1993764853444773728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 144x32_spr_heaven_sign_strip6_15
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6566443f3a5ae21f0800000000000000
+      internalID: -1067733938060630442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 144x32_spr_heaven_sign_strip6_16
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 0
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6be7bdbbfa152670800000000000000
+      internalID: 8513240339135851374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 144x32_spr_heaven_sign_strip6_17
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 0
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4994bbb6902ab6260800000000000000
+      internalID: 7091940199570819476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 144x32_spr_heaven_sign_strip6_18
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba88395149a78d340800000000000000
+      internalID: 4888792171946412203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 144x32_spr_heaven_sign_strip6_19
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 1
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac86cee356aef1ce0800000000000000
+      internalID: -1432168435912251190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

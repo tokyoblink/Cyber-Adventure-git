@@ -1,0 +1,743 @@
+fileFormatVersion: 2
+guid: a83cfd9741983aa4fbe57386e22491c5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2920414283203179396
+    second: 32x32_spr_alien_05_strip24_0
+  - first:
+      213: 692787955967138136
+    second: 32x32_spr_alien_05_strip24_1
+  - first:
+      213: -2622999991454081471
+    second: 32x32_spr_alien_05_strip24_2
+  - first:
+      213: -7837787524917015694
+    second: 32x32_spr_alien_05_strip24_3
+  - first:
+      213: 1315031149564044680
+    second: 32x32_spr_alien_05_strip24_4
+  - first:
+      213: -4304870937292057601
+    second: 32x32_spr_alien_05_strip24_5
+  - first:
+      213: -1085864859934918004
+    second: 32x32_spr_alien_05_strip24_6
+  - first:
+      213: 5405777011535500079
+    second: 32x32_spr_alien_05_strip24_7
+  - first:
+      213: 2533612967063514424
+    second: 32x32_spr_alien_05_strip24_8
+  - first:
+      213: -5908509344080866925
+    second: 32x32_spr_alien_05_strip24_9
+  - first:
+      213: 2746097810983911425
+    second: 32x32_spr_alien_05_strip24_10
+  - first:
+      213: 1646209133772169563
+    second: 32x32_spr_alien_05_strip24_11
+  - first:
+      213: 4047638240503440879
+    second: 32x32_spr_alien_05_strip24_12
+  - first:
+      213: 6541787665905631572
+    second: 32x32_spr_alien_05_strip24_13
+  - first:
+      213: -5217879828298341553
+    second: 32x32_spr_alien_05_strip24_14
+  - first:
+      213: -2901524827536072447
+    second: 32x32_spr_alien_05_strip24_15
+  - first:
+      213: -911232377348983337
+    second: 32x32_spr_alien_05_strip24_16
+  - first:
+      213: -4830470421844113497
+    second: 32x32_spr_alien_05_strip24_17
+  - first:
+      213: -2254566763391636980
+    second: 32x32_spr_alien_05_strip24_18
+  - first:
+      213: 5863220506661270063
+    second: 32x32_spr_alien_05_strip24_19
+  - first:
+      213: 8553612957853405501
+    second: 32x32_spr_alien_05_strip24_20
+  - first:
+      213: -2246696387869689756
+    second: 32x32_spr_alien_05_strip24_21
+  - first:
+      213: -8790755375889637159
+    second: 32x32_spr_alien_05_strip24_22
+  - first:
+      213: -5103547652815611479
+    second: 32x32_spr_alien_05_strip24_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 32x32_spr_alien_05_strip24_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4837d4b4155678820800000000000000
+      internalID: 2920414283203179396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_spr_alien_05_strip24_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8591714b9f64d9900800000000000000
+      internalID: 692787955967138136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_spr_alien_05_strip24_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 0
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ed68fa76b399bd0800000000000000
+      internalID: -2622999991454081471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_spr_alien_05_strip24_3
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b4550c5c59a3390800000000000000
+      internalID: -7837787524917015694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_spr_alien_05_strip24_4
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 0
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 885a65afcddef3210800000000000000
+      internalID: 1315031149564044680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_spr_alien_05_strip24_5
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 0
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff3ddc2d0b60244c0800000000000000
+      internalID: -4304870937292057601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_spr_alien_05_strip24_6
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 0
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8aff7db9ab3ee0f0800000000000000
+      internalID: -1085864859934918004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_spr_alien_05_strip24_7
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 0
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f23db8b0d8d250b40800000000000000
+      internalID: 5405777011535500079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_spr_alien_05_strip24_8
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 0
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83de424e193392320800000000000000
+      internalID: 2533612967063514424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_spr_alien_05_strip24_9
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 0
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 391dbf16e02c00ea0800000000000000
+      internalID: -5908509344080866925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_spr_alien_05_strip24_10
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 0
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1008c2ed8691c1620800000000000000
+      internalID: 2746097810983911425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_spr_alien_05_strip24_11
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 0
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b516e743c7288d610800000000000000
+      internalID: 1646209133772169563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_spr_alien_05_strip24_12
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 0
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe5ae70d8891c2830800000000000000
+      internalID: 4047638240503440879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_spr_alien_05_strip24_13
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 0
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4514656e83919ca50800000000000000
+      internalID: 6541787665905631572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_spr_alien_05_strip24_14
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 0
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f43e99111fd5697b0800000000000000
+      internalID: -5217879828298341553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_spr_alien_05_strip24_15
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 0
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1016cb3da86bbb7d0800000000000000
+      internalID: -2901524827536072447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_spr_alien_05_strip24_16
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 0
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d577401bf6aa53f0800000000000000
+      internalID: -911232377348983337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_spr_alien_05_strip24_17
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 0
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a743f78eb8b6fcb0800000000000000
+      internalID: -4830470421844113497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_spr_alien_05_strip24_18
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 0
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0aa3a1597b26b0e0800000000000000
+      internalID: -2254566763391636980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_spr_alien_05_strip24_19
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 0
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f22b4537cf75e5150800000000000000
+      internalID: 5863220506661270063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_spr_alien_05_strip24_20
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 0
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d31d70b8aa984b670800000000000000
+      internalID: 8553612957853405501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_spr_alien_05_strip24_21
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 0
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 468bfdae98122d0e0800000000000000
+      internalID: -2246696387869689756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_spr_alien_05_strip24_22
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 0
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d02eb0af86f00680800000000000000
+      internalID: -8790755375889637159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32_spr_alien_05_strip24_23
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 0
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a995a3137e8c29b0800000000000000
+      internalID: -5103547652815611479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
