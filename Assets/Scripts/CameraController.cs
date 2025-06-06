@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class CameraController : MonoBehaviour
 {
-    [SerializeField] private Transform player;
+    [SerializeField] private Transform Player;
     private Vector3 pos;
 
 
@@ -12,16 +12,18 @@ public class CameraController : MonoBehaviour
 //Проверка на поиск игрока
     private void Awake()
     {
-        if (!player)
-            player = FindObjectOfType<Hero>().transform;
+        if (!Player)
+            Player = FindObjectOfType<Hero>().transform;
     }
 
 
 //Поиск игрока при помощи метода лерп 
     private void Update()
     {
-        pos = player.position;
-        pos.z = 10f;
+        pos = Player.position;
+        pos.z = -10f;
+        pos.y += 3f;
+        
         transform.position = Vector3.Lerp(transform.position, pos, Time.deltaTime);
     }
 }

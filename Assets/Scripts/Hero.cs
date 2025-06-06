@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Hero : MonoBehaviour
+public class Hero : Entity
 {
     [SerializeField] private float speed = 3f; // скорость движения
     [SerializeField] private int lives = 5; // количество жизней
@@ -14,6 +14,13 @@ public class Hero : MonoBehaviour
     private Animator anim;
     private SpriteRenderer sprite;
 
+    public static Hero Instance { get; set; }
+
+    public override void GetDamage()
+    {
+        lives -= 1;
+        Debug.Log(lives);
+    }
 
     //Анимация
     private States State
@@ -27,16 +34,12 @@ public class Hero : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
         anim = GetComponentInChildren<Animator>();
         sprite = GetComponentInChildren<SpriteRenderer>();
+        Instance = this; 
 
     }
 
     private void Update()
      {
-        if (Input.GetButton("Fire3"))
-        {
-            Sit();
-        }
-        else
         {
             if (isGrounded) State = States.idle;
 
@@ -67,12 +70,6 @@ public class Hero : MonoBehaviour
         State = States.jump;
         isGrounded = false;
     }
-    
-    // Описание Приседания
-    private void Sit()
-    {
-        State = States.sit;
-    }
 
     // Проверка на землю (для прыжка)
     private void OnCollisionEnter2D(Collision2D collision)
@@ -87,6 +84,5 @@ public enum States
 {
     idle,
     run,
-    jump,
-    sit
+    jump
 }
