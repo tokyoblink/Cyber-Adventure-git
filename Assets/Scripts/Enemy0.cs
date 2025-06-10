@@ -4,6 +4,12 @@ using UnityEngine;
 
 public class Enemy0 : Entity
 {
+
+    private void Start()
+    {
+        lives = 2;
+    }
+
     [SerializeField] private int lives = 3;
 
     private void OnCollisionEnter2D(Collision2D collision)

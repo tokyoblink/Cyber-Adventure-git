@@ -13,7 +13,7 @@ public class CameraController : MonoBehaviour
     private void Awake()
     {
         if (!Player)
-            Player = FindObjectOfType<Hero>().transform;
+            Player = FindFirstObjectByType<Hero>().transform;
     }
 
 

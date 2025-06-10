@@ -11,6 +11,7 @@ public class WalkingMonster : Entity
     private void Start()
     {
         dir = transform.right; // направление вправо
+        lives = 3;
         sprite = GetComponentInChildren<SpriteRenderer>();
     }
 

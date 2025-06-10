@@ -13,9 +13,6 @@ public class MainMenu : MonoBehaviour
     public AudioClip buttonClickSound;
 
 
-
-
-
     public void PlayGame()
     {
 

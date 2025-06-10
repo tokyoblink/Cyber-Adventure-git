@@ -7,9 +7,16 @@ public class Hero : Entity
     [SerializeField] private float speed = 3f; // скорость движения
     [SerializeField] private int lives = 5; // количество жизней
     [SerializeField] private float jumpForce = 8f; // сила прыжка
+    public bool isGrounded = false;
+
+    public bool isAttacking = false;
+    public bool isRecharged = true;
+
+    public Transform attackPos;
+    public float attackRange;
+    public LayerMask enemy;
 
 
-    private bool isGrounded = false;
     private Rigidbody2D rb;
     private Animator anim;
     private SpriteRenderer sprite;
@@ -34,34 +41,78 @@ public class Hero : Entity
         rb = GetComponent<Rigidbody2D>();
         anim = GetComponentInChildren<Animator>();
         sprite = GetComponentInChildren<SpriteRenderer>();
-        Instance = this; 
+
+        Instance = this;
+        isRecharged = true;
 
     }
 
-    private void Update()
-     {
+
+
+    private void Attack()
+    {
+        if (isGrounded && isRecharged)
         {
-            if (isGrounded) State = States.idle;
+            State = States.attack;
+            isAttacking = true;
+            isRecharged = false;
 
-            if (Input.GetButton("Horizontal"))
-                Run();
 
-            if (Input.GetButtonDown("Jump") && isGrounded)
-                Jump();
+            StartCoroutine(AttackAnimation());
+            StartCoroutine(AttackCoolDown());
         }
     }
 
+    private IEnumerator AttackAnimation()
+    {
+        yield return new WaitForSeconds(0.4f); 
+        isAttacking = false;
+    }
 
-    // Описание бега
+    private IEnumerator AttackCoolDown()
+    {
+        yield return new WaitForSeconds(0.4f);
+        isRecharged = true;
+    }
+
+    private void OnAttack()
+    {
+        Collider2D[] colliders = Physics2D.OverlapCircleAll(attackPos.position, attackRange, enemy);
+
+        for (int i = 0; i < colliders.Length; i++)
+        {
+            colliders[i].GetComponent<Entity>().GetDamage();
+        }
+    }
+
+private void Update()
+{
+    if (Input.GetButton("Horizontal"))
+        Run();
+    if (Input.GetButtonDown("Jump") && isGrounded)
+        Jump();
+        if (Input.GetButtonDown("Fire1"))
+            Attack();
+
+    if (isGrounded)
+            {
+                if (Input.GetButton("Horizontal"))
+                {
+                    State = States.run;
+                }
+                else
+                {
+                    State = States.idle;
+                }
+            }
+}
+
     private void Run()
     {
         Vector3 dir = transform.right * Input.GetAxis("Horizontal");
         transform.position = Vector3.MoveTowards(transform.position, transform.position + dir, speed * Time.deltaTime);
         sprite.flipX = dir.x < 0.0f;
-
-        if (isGrounded) State = States.run;
     }
-
 
     // Описание прыжка
     private void Jump()
@@ -84,5 +135,6 @@ public enum States
 {
     idle,
     run,
-    jump
+    jump,
+    attack
 }
