@@ -1,13 +1,20 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class Hero : Entity
 {
     [SerializeField] private float speed = 3f; // скорость движения
-    [SerializeField] private int lives = 5; // количество жизней
-    [SerializeField] private float jumpForce = 8f; // сила прыжка
+    [SerializeField] private int health = 5; // количество жизней
+    [SerializeField] private float jumpForce = 7f; // сила прыжка
     public bool isGrounded = false;
+
+
+    [SerializeField] private Image[] hearts;
+
+    [SerializeField] private Sprite aliveHeart;
+    [SerializeField] private Sprite deadHeart;
 
     public bool isAttacking = false;
     public bool isRecharged = true;
@@ -23,31 +30,35 @@ public class Hero : Entity
 
     public static Hero Instance { get; set; }
 
-    public override void GetDamage()
-    {
-        lives -= 1;
-        Debug.Log(lives);
-    }
-
     //Анимация
     private States State
     {
         get { return (States)anim.GetInteger("state"); }
         set { anim.SetInteger("state", (int)value); }
     }
-
     private void Awake()
     {
-        rb = GetComponent<Rigidbody2D>();
-        anim = GetComponentInChildren<Animator>();
-        sprite = GetComponentInChildren<SpriteRenderer>();
-
+        lives = 5;
+        health = lives;
         Instance = this;
+        rb = GetComponent<Rigidbody2D>();
+        anim = GetComponent<Animator>();
+        sprite = GetComponent<SpriteRenderer>();
         isRecharged = true;
-
     }
 
 
+    public override void GetDamage()
+    {
+        health -= 1;
+        Debug.Log("Получен урон! Осталось жизней: " + health);
+        if (health == 0)
+        {
+            foreach (var h in hearts)
+                h.sprite = deadHeart;
+            Die();
+        }
+    }
 
     private void Attack()
     {
@@ -65,7 +76,7 @@ public class Hero : Entity
 
     private IEnumerator AttackAnimation()
     {
-        yield return new WaitForSeconds(0.4f); 
+        yield return new WaitForSeconds(0.4f);
         isAttacking = false;
     }
 
@@ -75,43 +86,66 @@ public class Hero : Entity
         isRecharged = true;
     }
 
-    private void OnAttack()
-    {
-        Collider2D[] colliders = Physics2D.OverlapCircleAll(attackPos.position, attackRange, enemy);
 
-        for (int i = 0; i < colliders.Length; i++)
-        {
-            colliders[i].GetComponent<Entity>().GetDamage();
-        }
-    }
 
-private void Update()
+private void OnDrawGizmos()
 {
-    if (Input.GetButton("Horizontal"))
-        Run();
-    if (Input.GetButtonDown("Jump") && isGrounded)
-        Jump();
+    if (attackPos == null) return;
+
+    Gizmos.color = Color.red;
+    Gizmos.DrawWireSphere(attackPos.position, attackRange);
+}
+
+    public void OnAttack()
+{
+        Collider2D[] colliders = Physics2D.OverlapCircleAll(attackPos.position,
+        attackRange, enemy);
+    
+    for (int i = 0; i < colliders.Length; i++)
+        {
+            Entity entity = colliders[i].GetComponent<Entity>();
+            if (entity != null && entity != this)
+                entity.GetDamage();
+        }
+}
+
+    private void Update()
+    {
+         if (!isAttacking && Input.GetButton("Horizontal"))
+            Run();
+        else if (isGrounded && !isAttacking)
+            State = States.idle;
+
+        if (!isAttacking && isGrounded && Input.GetButtonDown("Jump"))
+            Jump();
+
         if (Input.GetButtonDown("Fire1"))
             Attack();
 
-    if (isGrounded)
-            {
-                if (Input.GetButton("Horizontal"))
-                {
-                    State = States.run;
-                }
-                else
-                {
-                    State = States.idle;
-                }
-            }
-}
+        if (health > lives)
+            health = lives;
+
+        for (int i = 0; i < hearts.Length; i++)
+        {
+            if (i < health)
+                hearts[i].sprite = aliveHeart;
+            else
+                hearts[i].sprite = deadHeart;
+
+            if (i < lives)
+                hearts[i].enabled = true;
+            else
+                hearts[i].enabled = false;
+        }
+    }
 
     private void Run()
     {
         Vector3 dir = transform.right * Input.GetAxis("Horizontal");
-        transform.position = Vector3.MoveTowards(transform.position, transform.position + dir, speed * Time.deltaTime);
+        transform.position = Vector3.MoveTowards(transform.position,
+        transform.position + dir, speed * Time.deltaTime);
         sprite.flipX = dir.x < 0.0f;
+        State = States.run;
     }
 
     // Описание прыжка
@@ -128,6 +162,7 @@ private void Update()
         if (collision.gameObject.CompareTag("Ground"))
             isGrounded = true;
     }
+
 }
 
 //Анимация
