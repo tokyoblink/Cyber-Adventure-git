@@ -7,6 +7,7 @@ public class Hero : Entity
 {
 
     [SerializeField] private AudioSource jumpSound;
+    [SerializeField] private AudioSource attackMob;
     [SerializeField] private float speed = 4f; // скорость движения
     [SerializeField] private int health = 5; // количество жизней
     [SerializeField] private float jumpForce = 6f; // сила прыжка
@@ -102,13 +103,16 @@ private void OnDrawGizmos()
 {
         Collider2D[] colliders = Physics2D.OverlapCircleAll(attackPos.position,
         attackRange, enemy);
+
+        if (colliders.Length == 1)
+            attackMob.Play();
     
     for (int i = 0; i < colliders.Length; i++)
-        {
-            Entity entity = colliders[i].GetComponent<Entity>();
-            if (entity != null && entity != this)
-                entity.GetDamage();
-        }
+            {
+                Entity entity = colliders[i].GetComponent<Entity>();
+                if (entity != null && entity != this)
+                    entity.GetDamage();
+            }
 }
 
     private void Update()
