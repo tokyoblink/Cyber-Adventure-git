@@ -5,9 +5,11 @@ using UnityEngine.UI;
 
 public class Hero : Entity
 {
-    [SerializeField] private float speed = 3f; // скорость движения
+
+    [SerializeField] private AudioSource jumpSound;
+    [SerializeField] private float speed = 4f; // скорость движения
     [SerializeField] private int health = 5; // количество жизней
-    [SerializeField] private float jumpForce = 7f; // сила прыжка
+    [SerializeField] private float jumpForce = 6f; // сила прыжка
     public bool isGrounded = false;
 
 
@@ -151,6 +153,7 @@ private void OnDrawGizmos()
     // Описание прыжка
     private void Jump()
     {
+        jumpSound.Play();
         rb.AddForce(transform.up * jumpForce, ForceMode2D.Impulse);
         State = States.jump;
         isGrounded = false;
