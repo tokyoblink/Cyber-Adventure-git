@@ -18,8 +18,6 @@ public class MainMenu : MonoBehaviour
 
         // 3. Проигрываем звук перед загрузкой сцены
         audioSource.PlayOneShot(buttonClickSound);
-
-
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
     }
 
