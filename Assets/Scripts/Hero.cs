@@ -10,7 +10,7 @@ public class Hero : Entity
     [SerializeField] private AudioSource attackMob;
     [SerializeField] private float speed = 4f; // скорость движения
     [SerializeField] private int health = 5; // количество жизней
-    [SerializeField] private float jumpForce = 6f; // сила прыжка
+    [SerializeField] private float jumpForce = 8f; // сила прыжка
     public bool isGrounded = false;
 
 
