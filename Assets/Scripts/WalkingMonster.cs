@@ -4,45 +4,51 @@ using UnityEngine;
 
 public class WalkingMonster : Entity
 {
-    private float speed = 2f;
-    private Vector3 dir;
-    private SpriteRenderer sprite;
+    public float speed = 1;
+    public Transform groundCheck;
+    public Transform wallCheck;
+    public LayerMask groundLayer;
 
-    private void Start()
+    private Rigidbody2D rb;
+    private bool movingRight = true;
+
+    // Задержка перед поворотом
+    private float flipCooldown = 0.5f;
+    private float lastFlipTime = 0f;
+
+    void Start()
     {
-        dir = transform.right; // направление вправо
         lives = 3;
-        sprite = GetComponentInChildren<SpriteRenderer>();
+        rb = GetComponent<Rigidbody2D>();
     }
 
-    private void Update()
+    void Update()
     {
-        Move();
+        Patrol();
     }
 
-    private void Move()
+    void Patrol()
     {
-        // Проверка на наличие препятствий спереди (с учётом направления)
-        Collider2D[] colliders = Physics2D.OverlapCircleAll(
-            transform.position + Vector3.up * 0.1f + dir * 0.7f,
-            0.1f
-        );
+        // Движение
+        rb.linearVelocity = new Vector2((movingRight ? 1 : -1) * speed, rb.linearVelocity.y);
 
-        if (colliders.Length > 0)
+        // Проверка столкновений
+        bool wallHit = Physics2D.Raycast(wallCheck.position, Vector2.right * (movingRight ? 1 : -1), 0.1f, groundLayer);
+        bool groundAhead = Physics2D.Raycast(groundCheck.position, Vector2.down, 0.2f, groundLayer);
+
+        // Поворот при стене или обрыве (с задержкой)
+        if ((wallHit || !groundAhead) && Time.time > lastFlipTime + flipCooldown)
         {
-            dir *= -1f; // разворот при препятствии
-            if (sprite != null)
-                sprite.flipX = dir.x < 0; // разворот спрайта
+            Flip();
+            lastFlipTime = Time.time;
         }
-
-        transform.position += dir * speed * Time.deltaTime;
     }
 
-    private void OnCollisionEnter2D(Collision2D collision)
+    void Flip()
     {
-        if (collision.gameObject == Hero.Instance.gameObject)
-        {
-            Hero.Instance.GetDamage();
-        }
+        movingRight = !movingRight;
+        Vector3 scale = transform.localScale;
+        scale.x *= -1;
+        transform.localScale = scale;
     }
 }

@@ -103,6 +103,7 @@ private void OnDrawGizmos()
 {
         Collider2D[] colliders = Physics2D.OverlapCircleAll(attackPos.position,
         attackRange, enemy);
+        Debug.Log("Врагов найдено: " + colliders.Length);
 
         if (colliders.Length == 1)
             attackMob.Play();
